@@ -1,7 +1,7 @@
 # wy-6s-1.5a-BMS
 文宇创新6S 1.5A双向锂电池主动均衡板 可任意级联 BMS
 
-![Image of Yaktocat](https://gd3.alicdn.com/imgextra/i3/361529775/O1CN01wADHO92M509RS7gcP_!!361529775.jpg | width=512)
+<img src="https://gd3.alicdn.com/imgextra/i3/361529775/O1CN01wADHO92M509RS7gcP_!!361529775.jpg" width="512">
 
 淘宝链接(Taobao Link) https://item.taobao.com/item.htm?id=620720248755
 
